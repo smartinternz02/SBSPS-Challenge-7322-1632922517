@@ -5,8 +5,8 @@ SDG 02 ZERO HUNGER
 ### Team Members:
 1. Taruni ( https://github.com/taruni-always/ )
 2. Varun  ( https://github.com/andevarun/ )
-3. Arvind
-4. Harshavardhan
+3. Arvind ( https://github.com/Arvind004 )
+4. Harshavardhan ( https://github.com/Harshavardhan0913 )
 
 ### Dataset Used:
 https://docs.google.com/spreadsheets/d/1UUeTeAdDiyVM3tU5RU6V_5mxp6AM_ysh/edit#gid=4627908
